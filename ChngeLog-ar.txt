@@ -34,5 +34,4 @@
 <li>Many Other Fixes</li>
 
 ","url":"http://www.saif-mods.com/2018/08/SAWhatsApp-2.80.html"
-
 }
