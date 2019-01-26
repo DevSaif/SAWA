@@ -1,4 +1,4 @@
-{"version_code":451290,"content":"
+{"version_code":451260,"content":"
 <pدعم الموقع</p>
 
 <li>رسالة دعم للموقع</li>
@@ -8,5 +8,5 @@
 <li>ادعمنا لنستمر بتطوير النسخة وشكرا</li>
 
 
-","url":"https://www.devsaif.com/2018/11/SAWhatsApp-V3.00.html"
+","url":"https://www.saif-mods.com/2018/10/SAWhatsApp-3.00.html"
 }
